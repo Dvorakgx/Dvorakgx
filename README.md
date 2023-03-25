@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dvorakgx
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🎥 I’m interested in photography
 - 📫 How to reach me via email
 
 <!---
